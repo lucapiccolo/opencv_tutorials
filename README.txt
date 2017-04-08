@@ -1,0 +1,1 @@
+This project contains all the code produced while following OpenCV tutorials for Python bindings
